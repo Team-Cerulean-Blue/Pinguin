@@ -1,7 +1,7 @@
 using System;
 using Gtk;
 using UI = Gtk.Builder.ObjectAttribute;
-
+// this will be removed in a short time
 namespace Pinguin_GTK
 {
     class MainWindow : Window
